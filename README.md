@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
 |  |
 | ------- |
