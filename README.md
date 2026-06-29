@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3452-sum-of-good-numbers](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3452-sum-of-good-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
