@@ -3,7 +3,7 @@ public:
     void rotate(vector<int>& nums, int k) {
         int orig = k;
         int left = 0 ;
-        k = k % nums.size();
+        k = k % nums.size();   //this is main thing in this ques
         int right = nums.size() - 1;
 
         while(left <=right){  //reversal done
