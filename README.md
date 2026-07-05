@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
