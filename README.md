@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Dynamic Programming
@@ -133,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
