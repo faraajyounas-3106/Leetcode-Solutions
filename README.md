@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
