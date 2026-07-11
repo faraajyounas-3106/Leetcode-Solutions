@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -84,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
