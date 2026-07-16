@@ -1,0 +1,16 @@
+class Solution {
+public:
+    bool isUgly(int n) {
+        bool ans = true;
+        vector<int> fac = {2,3,5};
+        if(n <= 0){
+            return false;
+        }
+        for (int i : fac){
+            while( n % i == 0){
+                n = n / i;
+            }
+        }
+        return  n == 1;
+    }
+};
