@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3452-sum-of-good-numbers](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3452-sum-of-good-numbers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
