@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
