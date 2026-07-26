@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -168,8 +169,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
