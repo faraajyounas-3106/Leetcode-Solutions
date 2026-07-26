@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
