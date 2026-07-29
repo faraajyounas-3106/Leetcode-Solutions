@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/faraajyounas-3106/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
